@@ -1,0 +1,7 @@
+{
+  "tasks": {
+    "dev": "deno run --allow-read --allow-write=\"./mints.json\" --allow-write=\"./message.txt\" --allow-env --allow-net --watch main.ts"
+  },
+  "imports": {
+  }
+}
